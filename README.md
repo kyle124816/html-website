@@ -1,0 +1,1 @@
+This is a website I made in HTML, CSS, and JavaScript (JS). The indexonlyhtml.html is for direct HTML embeds, such as in a google site. The index.html imports js/main.js and css/stylesheet.css for a cleaner look. Short form: indexonlyhtml.html is ugly-looking,, index.html is clean-looking. This is open-source, so feel free to copy the code! <3 :)
